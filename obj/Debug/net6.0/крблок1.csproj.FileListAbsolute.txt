@@ -1,0 +1,15 @@
+D:\крблок1\bin\Debug\net6.0\крблок1.exe
+D:\крблок1\bin\Debug\net6.0\крблок1.deps.json
+D:\крблок1\bin\Debug\net6.0\крблок1.runtimeconfig.json
+D:\крблок1\bin\Debug\net6.0\крблок1.dll
+D:\крблок1\bin\Debug\net6.0\крблок1.pdb
+D:\крблок1\obj\Debug\net6.0\крблок1.csproj.AssemblyReference.cache
+D:\крблок1\obj\Debug\net6.0\крблок1.GeneratedMSBuildEditorConfig.editorconfig
+D:\крблок1\obj\Debug\net6.0\крблок1.AssemblyInfoInputs.cache
+D:\крблок1\obj\Debug\net6.0\крблок1.AssemblyInfo.cs
+D:\крблок1\obj\Debug\net6.0\крблок1.csproj.CoreCompileInputs.cache
+D:\крблок1\obj\Debug\net6.0\крблок1.dll
+D:\крблок1\obj\Debug\net6.0\refint\крблок1.dll
+D:\крблок1\obj\Debug\net6.0\крблок1.pdb
+D:\крблок1\obj\Debug\net6.0\крблок1.genruntimeconfig.cache
+D:\крблок1\obj\Debug\net6.0\ref\крблок1.dll
